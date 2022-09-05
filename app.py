@@ -17,6 +17,7 @@ warnings.filterwarnings('ignore')
 import re
 import nltk
 nltk.download("stopwords")
+nltk.download('punkt')
 from nltk.corpus import stopwords
 stop_words = set(stopwords.words("english"))
 from nltk.stem.wordnet import WordNetLemmatizer
