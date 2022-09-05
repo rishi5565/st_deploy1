@@ -8,3 +8,4 @@ streamlit==1.10.0
 tweepy==4.6.0
 wordcloud==1.8.2.2
 yfinance==0.1.74
+scikit-learn
